@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vanshbhatia2007&label=Profile%20views&color=0e75b6&style=flat" alt="vanshbhatia2007" /> </p>
 
-- 🌱 I’m currently learning **GO language**
+- 🌱 I’m currently making project using python 
 
 - 👨‍💻 All of my projects are available at [https://github.com/VanshBhatia2007](https://github.com/VanshBhatia2007)
 
