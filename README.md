@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/VanshBhatia2007](https://github.com/VanshBhatia2007)
 
-- 💬 Ask me about **Pyhton , mysql**
+- 💬 Ask me about **Pyhton , mysql , Golang**
 
 - 📫 How to reach me **vanshb335@gmail.com**
 
