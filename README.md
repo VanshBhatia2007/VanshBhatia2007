@@ -10,6 +10,13 @@
 - 💬 Ask me about **Pyhton , mysql , Golang**
 
 - 📫 How to reach me **vanshb335@gmail.com**
+## 🏅 Certifications
+- [Designing Blockchain Solutions Using Amazon Managed Blockchain – AWS](./certificates/aws_blockchain_cert.pdf)
+
+
+
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
