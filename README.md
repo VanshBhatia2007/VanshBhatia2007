@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **vanshb335@gmail.com**
 ## 🏅 Certifications
-- [Designing Blockchain Solutions Using Amazon Managed Blockchain – AWS](./certificates/aws_blockchain_cert.pdf)
+- [Designing Blockchain Solutions Using Amazon Managed Blockchain – AWS](./certificates/aws-blockchain_cert.pdf)
 
 
 
