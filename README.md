@@ -3,21 +3,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vanshbhatia2007&label=Profile%20views&color=0e75b6&style=flat" alt="vanshbhatia2007" /> </p>
 
-- 🌱 I’m currently making project using python 
+- 🎓 Currently pursuing my studies at **Vivekananda Institute of Professional Studies (VIPS)**  
+- 🌱 I’m currently making project using Python  
+- 👨‍💻 All of my projects are available at [https://github.com/VanshBhatia2007](https://github.com/VanshBhatia2007)  
+- 💬 Ask me about **Python, MySQL, Golang**  
+- 📫 How to reach me: **vanshb335@gmail.com**  
 
-- 👨‍💻 All of my projects are available at [https://github.com/VanshBhatia2007](https://github.com/VanshBhatia2007)
-
-- 💬 Ask me about **Pyhton , mysql , Golang**
-
-- 📫 How to reach me **vanshb335@gmail.com**
 ## 🏅 Certifications
 - [Designing Blockchain Solutions Using Amazon Managed Blockchain – AWS](./certificates/aws-blockchain_cert.pdf)
 - [Introduction to Generative AI Studio](./certificates/google_gen_ai_cert.pdf)
-
-
-
-
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -27,7 +21,7 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-  <p align="left">
+<p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/>
@@ -36,4 +30,3 @@
 </p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vanshbhatia2007&show_icons=true&locale=en&layout=compact" alt="vanshbhatia2007" /></p>
-
