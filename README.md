@@ -13,7 +13,7 @@
 - [Designing Blockchain Solutions Using Amazon Managed Blockchain – AWS](./certificates/aws-blockchain_cert.pdf)
 - [Introduction to Generative AI Studio](./certificates/google_gen_ai_cert.pdf)
 - [Nation Skillup](./certificates/geek-for-geeks.pdf)
-- [](./certificates/SOLID-PRINCIPLES.pdf)
+- [S.O.L.I.D PRINCIPLES](./certificates/Scaler.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
