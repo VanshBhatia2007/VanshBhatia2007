@@ -6,7 +6,7 @@
 - 🎓 Currently pursuing my studies at **Vivekananda Institute of Professional Studies (VIPS)**  
 - 🌱 I’m currently making project using Python  
 - 👨‍💻 All of my projects are available at [https://github.com/VanshBhatia2007](https://github.com/VanshBhatia2007)  
-- 💬 Ask me about **Python, MySQL, Golang**  
+- 💬 Ask me about **C++, DSA, MYSQL**  
 - 📫 How to reach me: **vanshb335@gmail.com**  
 
 ## 🏅 Certifications
