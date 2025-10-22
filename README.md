@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Vansh Bhatia</h1>
+<h1 align="center">Hi👋, I'm Vansh Bhatia</h1>
 <h3 align="center">A passionate coder on a journey to build impactful solutions</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vanshbhatia2007&label=Profile%20views&color=0e75b6&style=flat" alt="vanshbhatia2007" /> </p>
